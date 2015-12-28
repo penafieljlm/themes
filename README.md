@@ -15,6 +15,7 @@ This section shall contain the themes that I use for Google Chrome.
 ##### Stylish
 This section shall contain the themes that I use for Google Chrome using the [[Stylish Extension|https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en]] for Google Chrome.
 
-* Dusky Gray Facebook [Dark Theme] (http://userstyles.org/styles/118180)
-* GitHub Dark (http://userstyles.org/styles/37035)
-* Userstyles Dark | aperopia (http://userstyles.org/styles/105609)
+* [[Dusky Gray Facebook \[Dark Theme\]|http://userstyles.org/styles/118180]]
+* [[GitHub Dark|http://userstyles.org/styles/37035]]
+* [[Userstyles Dark \| aperopia|http://userstyles.org/styles/105609]]
+* [[Dark Google Minimalist|http://userstyles.org/styles/95612]]
