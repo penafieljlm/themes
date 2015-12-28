@@ -7,13 +7,19 @@ In this repository, I shall attempt to keep track of all the themes that I perso
     1. [Stylish](#stylish)
 
 ### Web Browsers
+[[Back to Top](#themes)]
+
 This section shall contain the themes that I use for various Web Browsers.
 
 #### Google Chrome
+[[Back to Top](#themes)]
+
 This section shall contain the themes that I use for Google Chrome.
 
 ##### Stylish
-This section shall contain the themes that I use for Google Chrome using the Stylish Extension for Google Chrome.
+[[Back to Top](#themes)]
+
+This section shall contain the themes that I use for Google Chrome using the [Stylish Extension for Google Chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en).
 
 | Website    | Userstyle                           |
 |------------|-------------------------------------|
@@ -22,5 +28,4 @@ This section shall contain the themes that I use for Google Chrome using the Sty
 | Google     | http://userstyles.org/styles/89702  |
 | Userstyles | http://userstyles.org/styles/105609 |
 
-Get the Stylish Google Chrome Extension at https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en
-Get more Userstyles at http://userstyles.org/
+Get more at the [Userstyles Website](http://userstyles.org/).
