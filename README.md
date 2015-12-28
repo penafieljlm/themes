@@ -13,11 +13,14 @@ This section shall contain the themes that I use for various Web Browsers.
 This section shall contain the themes that I use for Google Chrome.
 
 ##### Stylish
-This section shall contain the themes that I use for Google Chrome using the [[Stylish Extension|https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en]] for Google Chrome.
+This section shall contain the themes that I use for Google Chrome using the Stylish Extension for Google Chrome.
 
 | Website    | Userstyle                           |
 |------------|-------------------------------------|
 | Facebook   | http://userstyles.org/styles/118180 |
 | GitHub     | http://userstyles.org/styles/37035  |
-| Google     | http://userstyles.org/styles/95612  |
+| Google     | http://userstyles.org/styles/89702  |
 | Userstyles | http://userstyles.org/styles/105609 |
+
+Get the Stylish Google Chrome Extension at https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en
+Get more Userstyles at http://userstyles.org/
