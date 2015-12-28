@@ -1,5 +1,5 @@
 # themes
-In this repository, I shall attempt to keep track of all the themes that I personally use for different applications, just in case I need to migrate computers in the future. I have a preference for dark themes as they seem to be easier on the eyes. You have been warned.
+In this repository, I shall attempt to keep track of all the themes that I personally use for different applications, just in case I need to migrate to a new computer in the future. I have a preference for dark themes as they seem to be easier on the eyes. You have been warned.
 
 This repository shall be updated on a "whenever" basis, though probably more around the times I discover a new theme or I spot a typo in the documentation.
 
